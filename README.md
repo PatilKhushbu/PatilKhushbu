@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **Khushbu Patil** – a recent **Master's graduate in Data Management & Analytics** from [Ca' Foscari University of Venice](https://www.unive.it/). I’m passionate about building intelligent systems that make data accessible and impactful.
+👋 Hi, I'm **Khushbu Patil** – **🎓Recent Master's Graduate in Computer Science | Specialization in Data Management & Analytics | Passionate about AI, ML & Data-Driven Solutions** from [Ca' Foscari University of Venice](https://www.unive.it/). I’m passionate about building intelligent systems that make data accessible and impactful.
 
 🔍 **Recent Work**:
 - 📖 Master's Thesis: *"Breaking Data Barriers"* – enhancing digital accessibility for the visually impaired.

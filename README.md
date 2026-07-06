@@ -8,7 +8,7 @@
 
 ## 🔍 Recent Work
 
-- 📖 Master's Thesis: *"Breaking Data Barriers"* – enhancing digital accessibility for the visually impaired. → ([Read it here])[https://github.com/PatilKhushbu/breaking-data-barriers](https://github.com/PatilKhushbu/Master_Thesis_Research_Work))
+- 📖 Master's Thesis: *"Breaking Data Barriers"* – enhancing digital accessibility for the visually impaired. → [Read it here](https://github.com/PatilKhushbu/breaking-data-barriers)(https://github.com/PatilKhushbu/Master_Thesis_Research_Work))
 - 🔗 [PageRank & HITS](https://github.com/PatilKhushbu/pagerank-hits) — link-analysis algorithms behind web search ranking
 - ❤️ [Early Stage Heart Disease Detection](https://github.com/PatilKhushbu/heart-disease-detection) — clinical risk prediction with Logistic Regression, LDA & Ridge Regression
 - 🕸️ [Manifold Learning & Graph Kernels](https://github.com/PatilKhushbu/manifold-learning-graph-kernels) — Weisfeiler-Lehman kernels + Isomap/LLE

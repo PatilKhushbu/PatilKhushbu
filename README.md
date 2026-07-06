@@ -8,16 +8,15 @@
 
 ## 🔍 Recent Work
 
-- 📖 Master's Thesis: "Breaking Data Barriers" – enhancing digital accessibility for the visually impaired. → [Read it here] (!-- https://github.com/PatilKhushbu/Master_Thesis_Research_Work --)
-- 🔗 [PageRank & HITS](https://github.com/PatilKhushbu/pagerank-hits) — link-analysis algorithms behind web search ranking
-- ❤️ [Early Stage Heart Disease Detection](https://github.com/PatilKhushbu/heart-disease-detection) — clinical risk prediction with Logistic Regression, LDA & Ridge Regression
-- 🕸️ [Manifold Learning & Graph Kernels](https://github.com/PatilKhushbu/manifold-learning-graph-kernels) — Weisfeiler-Lehman kernels + Isomap/LLE
-- ✉️ [Spam Filter: SVM & Naive Bayes](https://github.com/PatilKhushbu/spam-filter-svm-naive-bayes) — discriminative vs. generative classification
-- 🧩 [Sudoku Puzzle Solver](https://github.com/PatilKhushbu/sudoku-solver) — CSP solver with AC-3, forward checking & backtracking
-- 🖼️ [Semantic Segmentation with PyTorch](https://github.com/PatilKhushbu/semantic-segmentation-pytorch) — pixel-level classification with pretrained CNNs
-- 🧮 [Matrix Template Library](https://github.com/PatilKhushbu/matrix-template-library) — generic C++ linear algebra with optimized multi-matrix multiplication
+- 📖 Master's Thesis: *"Breaking Data Barriers"* – enhancing digital accessibility for the visually impaired. → [Read it here](https://github.com/PatilKhushbu/Master_Thesis_Research_Work)
+- 🔗 [PageRank & HITS](https://github.com/PatilKhushbu/Page_Rank-HITS_Computation) — link-analysis algorithms behind web search ranking
+- ❤️ [Early Stage Heart Disease Detection](https://github.com/PatilKhushbu/heart-disease-detection-r) — clinical risk prediction with Logistic Regression, LDA & Ridge Regression
+- 🕸️ [Manifold Learning & Graph Kernels](https://github.com/PatilKhushbu/Manifold-Learning-and-Graph-Kernels) — Weisfeiler-Lehman kernels + Isomap/LLE
+- ✉️ [Spam Filter: SVM & Naive Bayes](https://github.com/PatilKhushbu/SPAM_FILTER) — discriminative vs. generative classification
+- 🧩 [Sudoku Puzzle Solver](https://github.com/PatilKhushbu/SUDOKU_PUZZLE_SOLVER-) — CSP solver with AC-3, forward checking & backtracking
+- 🖼️ [Semantic Segmentation with PyTorch](https://github.com/PatilKhushbu/semantic-segmentation-pytorch-master) — pixel-level classification with pretrained CNNs
+- 🧮 [Matrix Template Library](https://github.com/PatilKhushbu/Matrix_Template_Library) — generic C++ linear algebra with optimized multi-matrix multiplication
 
-*(Update the links above to match your actual repo names if any differ.)*
 
 ---
 

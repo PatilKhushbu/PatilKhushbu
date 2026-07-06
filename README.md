@@ -61,14 +61,6 @@ I once built a **Sudoku Solver** using AI algorithms like AC-3, forward checking
 
 ---
 
-## 📊 GitHub Stats
-
-![Khushbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatilKhushbu&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatilKhushbu&layout=compact)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbupatil07)

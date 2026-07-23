@@ -10,6 +10,7 @@
 
 - 📖 Master's Thesis: *"Breaking Data Barriers"* – enhancing digital accessibility for the visually impaired. → [Read it here](https://github.com/PatilKhushbu/Master_Thesis_Research_Work)
 - 🔊 [Accessible Document Q&A Assistant](https://github.com/PatilKhushbu/accessible-document-qa) — voice-driven RAG app that reads answers aloud for blind & partially sighted users; runs fully offline (Python, LangChain, Ollama)
+- 📊 [Job Market Skills Pipeline](https://github.com/PatilKhushbu/job-market-skills-pipeline) — end-to-end ETL pipeline extracting in-demand tech skills from job postings (Python, pandas, SQLite)
 - 🔗 [PageRank & HITS](https://github.com/PatilKhushbu/Page_Rank-HITS_Computation) — link-analysis algorithms behind web search ranking
 - ❤️ [Early Stage Heart Disease Detection](https://github.com/PatilKhushbu/heart-disease-detection-r) — clinical risk prediction with Logistic Regression, LDA & Ridge Regression
 - 🕸️ [Manifold Learning & Graph Kernels](https://github.com/PatilKhushbu/Manifold-Learning-and-Graph-Kernels) — Weisfeiler-Lehman kernels + Isomap/LLE
